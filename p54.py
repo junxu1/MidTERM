@@ -11,5 +11,3 @@ elif a1>1.5:
         money=money+5
         
     print(money)
-
-
